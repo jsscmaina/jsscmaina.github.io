@@ -93,7 +93,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   
   .xlarge{
     width: 800px;
-    height: 800px;
+    height: 800px; 
     left: -400px;
     bottom: -400px;
   }
